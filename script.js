@@ -1,0 +1,1 @@
+alert("welcome to website\nThis deal for limited time \nPleas read terms and conditions")
